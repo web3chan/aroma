@@ -10,7 +10,7 @@ from collections import UserList
 import websockets
 import dateutil.parser
 
-__useragent__ = "aroma/1.x; (+https://github.com/web3/aroma)"
+__useragent__ = "aroma/1.x; (+https://github.com/web3chan/aroma)"
 SCOPES = 'read write follow'
 REDIRECT_URI = 'urn:ietf:wg:oauth:2.0:oob'
 
